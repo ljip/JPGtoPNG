@@ -5,7 +5,7 @@ import sys
 import os
 from PIL import Image
 
-#grabs arguments from command line
+#grabs arguments from command linee
 image_folder = sys.argv[1] #Pictures/
 
 output_folder = sys.argv[2] #Output/
